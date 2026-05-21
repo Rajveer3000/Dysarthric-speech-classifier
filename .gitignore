@@ -1,0 +1,25 @@
+# Generated outputs — created when notebook is run
+audio_samples/
+*.png
+*.wav
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+.venv
+venv/
+env/
+
+# OS
+.DS_Store
+*~
+*.swp
